@@ -1,3 +1,7 @@
+.friend .friend__column {
+  display: flex;
+  align-items: center;
+}
 .more .more__btn-list,
 .more .more__suggestion-list {
   margin: 30px 0px;

@@ -1,8 +1,9 @@
 .status-bar {
+  padding: 15px;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 30px;
   color: #656565;
+  background-color: white;
 }
 
 .status-bar i {
